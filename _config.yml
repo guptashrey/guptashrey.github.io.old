@@ -1,0 +1,15 @@
+# Site settings
+title: Shrey Gupta
+description: Shrey Gupta
+# baseurl: "particle"
+url: "localhost:3000"
+
+# User settings
+username: Shrey Gupta
+user_description: I am a third-year Computer Science & Engineering student currently studying at Maharaja Agrasen Institute of Technology, New Delhi, IN. I am a person who finds logic behind everything and my whimsical jokes keep the environment lively! I have been dismantling stuff (that included everything from a pencil cell torch to unused appliances that often landed me up in trouble :P) since I was a kid which brought me to pursue a higher education in a technological field. I have been programming for a couple years now but have also dipped my toes in various other technologies - Web Development, Android App Development and Human Computer Interaction research, just to name a few. You can find more information about me through the links below.
+user_title: Programmer & Freelancer.
+email: shrey.gupta1904@gmail.com
+twitter_username: guptashrey
+github_username:  guptashrey
+
+exclude: ['package.json', 'src' , 'node_modules']
